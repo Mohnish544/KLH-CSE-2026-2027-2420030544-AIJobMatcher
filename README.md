@@ -1,4 +1,4 @@
-# KLH-CSE-2026-2027-2420030544-AIJobMatcher
+# AI-Powered Resume/Job Matcher + Application Tracker
 
 ## Team Members
 
