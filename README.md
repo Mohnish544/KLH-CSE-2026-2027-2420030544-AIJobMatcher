@@ -12,6 +12,8 @@
 
 ## Abstract
 
+[ASE_ABSTRACTdocx.docx](https://github.com/user-attachments/files/31134610/ASE_ABSTRACTdocx.docx)
+
 ###
 
 ## Current Phase Status
