@@ -12,7 +12,11 @@
 
 ## Abstract
 
-[ASE_ABSTRACTdocx.docx](https://github.com/user-attachments/files/31134610/ASE_ABSTRACTdocx.docx)
+Job seekers routinely apply to dozens of positions without knowing whether their resume actually matches a given job description, leading to wasted effort and low interview conversion rates. This project proposes an AI-assisted Job Application Tracker that combines a Kanban-style application pipeline (Applied, Interview, Offer, Rejected) with an integrated resume-to-job-description matching engine. Users upload their resume and paste a target job description; the system extracts key skills and keywords from both, computes a similarity score, and highlights missing or weak skill matches before the user applies. Each tracked application stores its match score alongside its pipeline status, enabling an analytics dashboard that correlates match quality with real outcomes such as interview conversion. The system is built using React.js for the frontend, Firebase (Authentication, Firestore, Storage, Hosting) for backend services, Git and GitHub with GitHub Actions for version control and continuous integration/deployment, and Jira for Agile sprint-based project management. Firestore security rules enforce that users can only access their own data, addressing basic secure-coding practices. The resulting system demonstrates practical application of Agile development, DevOps automation, and lightweight AI/NLP techniques to solve a genuine, everyday problem faced by job seekers.
+
+Following Adaptive Software Engineering principles, the project is developed using Agile/Scrum practices for iterative, sprint-based development, DevOps-driven CI/CD pipelines for reliable and automated delivery, and secure coding practices to protect user data throughout the development lifecycle. Version control is managed through Git and GitHub using a feature-branch workflow, with GitHub Actions automating testing and deployment to Firebase Hosting on every merge to the main branch. Project progress is tracked through a Jira Scrum board, with work organized into epics, sprints, and user stories to reflect real-world Agile team practices. Together, these elements make the project a practical demonstration of adaptive, iterative, and security-conscious software engineering applied to a genuine, everyday problem.
+
+[ASE_ABSTRACT.docx](https://github.com/user-attachments/files/31134610/ASE_ABSTRACTdocx.docx)
 
 ###
 
