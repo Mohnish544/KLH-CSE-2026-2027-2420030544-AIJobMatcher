@@ -16,7 +16,7 @@ Job seekers routinely apply to dozens of positions without knowing whether their
 
 Following Adaptive Software Engineering principles, the project is developed using Agile/Scrum practices for iterative, sprint-based development, DevOps-driven CI/CD pipelines for reliable and automated delivery, and secure coding practices to protect user data throughout the development lifecycle. Version control is managed through Git and GitHub using a feature-branch workflow, with GitHub Actions automating testing and deployment to Firebase Hosting on every merge to the main branch. Project progress is tracked through a Jira Scrum board, with work organized into epics, sprints, and user stories to reflect real-world Agile team practices. Together, these elements make the project a practical demonstration of adaptive, iterative, and security-conscious software engineering applied to a genuine, everyday problem.
 
-[ASE_ABSTRACT.docx](https://github.com/user-attachments/files/31134610/ASE_ABSTRACTdocx.docx)
+[ASE_ABSTRACTdocx.pdf](https://github.com/user-attachments/files/31145443/ASE_ABSTRACTdocx.pdf)
 
 ###
 ## Project Structure
