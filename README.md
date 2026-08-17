@@ -1,4 +1,4 @@
-<<<<<<< HEAD# AI-Powered Resume/Job Matcher + Application Tracker
+# AI-Powered Resume/Job Matcher + Application Tracker
 
 ## Team Members
 
