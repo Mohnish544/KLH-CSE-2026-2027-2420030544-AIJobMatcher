@@ -50,4 +50,3 @@ CareerForge/
 * [ ] Deployment
 
 **Status:** In Progress
->>>>>>> f0a11c220330b687b1d4bb60a5e9cc3027800b41
