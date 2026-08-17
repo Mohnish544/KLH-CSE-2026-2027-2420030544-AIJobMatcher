@@ -22,7 +22,7 @@ Following Adaptive Software Engineering principles, the project is developed usi
 ## Project Structure
 
 ```
-CareerForge/
+AiJobMatcher/
 ├── src/        # Application source code (React frontend, Firebase functions, matching engine)
 ├── docs/       # Project documentation (architecture, sprint plans, meeting notes, diagrams)
 ├── data/       # Sample/reference data (sample resumes, sample job descriptions) or data source references
